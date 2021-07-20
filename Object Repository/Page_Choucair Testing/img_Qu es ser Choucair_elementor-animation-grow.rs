@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Qu es ser Choucair_elementor-animation-grow</name>
+   <tag></tag>
+   <elementGuidId>ec85c25f-29f1-4596-9bee-f2aef9e6341e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div/div/section[2]/div/div/div[2]/div/div/div/div/div/figure/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elementor-element.elementor-element-3c68718.elementor-position-top.elementor-vertical-align-top.elementor-widget.elementor-widget-image-box > div.elementor-widget-container > div.elementor-image-box-wrapper > figure.elementor-image-box-img > a > img.elementor-animation-grow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.choucairtesting.com/wp-content/uploads/elementor/thumbs/empleosazulMesa-de-trabajo-1-nzblzb24p786w77efm7z2wa94jtit8h8jglrtfqm08.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>empleosazulMesa de trabajo 1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>empleosazulMesa de trabajo 1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-animation-grow</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container content-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;elementor elementor-344&quot;]/div[@class=&quot;elementor-inner&quot;]/div[@class=&quot;elementor-section-wrap&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-95db455 elementor-section-stretched elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-row&quot;]/div[@class=&quot;elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4faf73e&quot;]/div[@class=&quot;elementor-column-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-widget-wrap&quot;]/div[@class=&quot;elementor-element elementor-element-3c68718 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-image-box-wrapper&quot;]/figure[@class=&quot;elementor-image-box-img&quot;]/a[1]/img[@class=&quot;elementor-animation-grow&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div/div/section[2]/div/div/div[2]/div/div/div/div/div/figure/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='empleosazulMesa de trabajo 1']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/figure/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>
